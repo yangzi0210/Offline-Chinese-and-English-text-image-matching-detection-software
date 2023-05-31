@@ -1,0 +1,10 @@
+D:/txtimg/text4imageTest/dataset/military_image/00001.jpg,0.9234,True
+D:/txtimg/text4imageTest/dataset/military_image/000010.jpg,0.5677,True
+D:/txtimg/text4imageTest/dataset/military_image/00002.jpg,0.7543,True
+D:/txtimg/text4imageTest/dataset/military_image/00003.jpg,0.8182,True
+D:/txtimg/text4imageTest/dataset/military_image/00004.jpg,0.9521,True
+D:/txtimg/text4imageTest/dataset/military_image/00005.jpg,0.84,True
+D:/txtimg/text4imageTest/dataset/military_image/00006.jpg,0.7421,True
+D:/txtimg/text4imageTest/dataset/military_image/00007.jpg,0.889,True
+D:/txtimg/text4imageTest/dataset/military_image/00008.jpg,0.7669,True
+D:/txtimg/text4imageTest/dataset/military_image/00009.jpg,0.9038,True
