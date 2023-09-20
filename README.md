@@ -1,5 +1,6 @@
 ## 基于CLIP、Transformers实现图文匹配度检测软件
-
+## 技术栈
+- Python Pytorch PyQt5
 ## 原理
 - 使用**CLIP**（对比图文预训练方法）提供的图文匹配度检测接口
 - 使用**huggingface**基于**Transformers**的机器模型实现离线翻译，因此输入中英文均可检测
@@ -11,6 +12,9 @@
 ![](./assets/2.png)
 
 ## 安装
+
+- 提前安装好 Anaconda 和对应 Pytorch gpu 版本的 cuda cudnn
+
 ``` bash
 pip install -r requirements.txt
 ```
